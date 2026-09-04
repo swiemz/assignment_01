@@ -1,4 +1,12 @@
-Write your reflection here.
-
-See reflection.md for what makes a good reflection — be specific, use the
-terminology from class, and make it actionable.
+Github desktop gave me some trouble. I was able to fork the assignment and get the
+program to work on my desktop, but I somehow had two main workspaces, one of which 
+had substantial tech issues that emerged only after I had completed the first 8 steps.
+I was able to work through the tech issues, and I was able to learn some cool new things.
+Using functions and tests instead of one merged code allowed me to have a better understanding
+of why they are important. It became much easier to use the debugger for the functions in 
+bill.py and console.py when I ran into problems, especially since the problems were 
+self-created and easily fixable. Alongside the tech issues, the only other thing I still feel
+shaky on is the breakpoints within the debugger. It is difficult for me to wrap my head around
+why it is important to separate the code, or how it even works without running the whole code.
+I think that I may just need an actual problem where I am forced to use it to know that it's 
+important.  
