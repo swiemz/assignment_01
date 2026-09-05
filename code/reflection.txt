@@ -3,10 +3,13 @@ program to work on my desktop, but I somehow had two main workspaces, one of whi
 had substantial tech issues that emerged only after I had completed the first 8 steps.
 I was able to work through the tech issues, and I was able to learn some cool new things.
 Using functions and tests instead of one merged code allowed me to have a better understanding
-of why they are important. It became much easier to use the debugger for the functions in 
-bill.py and console.py when I ran into problems, especially since the problems were 
-self-created and easily fixable. Alongside the tech issues, the only other thing I still feel
-shaky on is the breakpoints within the debugger. It is difficult for me to wrap my head around
+of how Python is designed. It became much easier to use the debugger for the functions in 
+bill.py and console.py when I ran into problems, especially because the functions showed that
+each action is separate. Alongside the tech issues, the only other thing I still feel shaky 
+on is the breakpoints within the debugger. It is difficult for me to wrap my head around
 why it is important to separate the code, or how it even works without running the whole code.
 I think that I may just need an actual problem where I am forced to use it to know that it's 
-important.  
+important. Next assignment, I want to force myself to use the debugger so that I'm understanding 
+how to work within my code instead of treating it like one big thing. I also want to work
+more on my problem-solving skills in getting the technology to work in the first place, 
+as it ate up way too much of my time. 
