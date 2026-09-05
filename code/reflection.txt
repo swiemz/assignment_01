@@ -12,4 +12,4 @@ I think that I may just need an actual problem where I am forced to use it to kn
 important. Next assignment, I want to force myself to use the debugger so that I'm understanding 
 how to work within my code instead of treating it like one big thing. I also want to work
 more on my problem-solving skills in getting the technology to work in the first place, 
-as it ate up way too much of my time. 
+as it ate up way too much of my time!
